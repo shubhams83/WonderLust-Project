@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://WonderLustSD-Backend.jstackshubham.repl.co/) h
 1. Git Clone
 
 ```
-git clone https://github.com/shubhams83/sd-wander-lust-project.git
+git clone https://github.com/shubhams83/WonderLust-Project
 ```
 
 2. Backend setting
