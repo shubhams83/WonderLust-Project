@@ -9,7 +9,7 @@ var baseURL;
 // } else {
 //     baseURL = "http://127.0.0.1:8000";
 // }
-baseURL = "https://wonderlustsd-backend.jstackshubham.repl.co";
+baseURL = "https://wonderlustsd-backend.jstackshubham.repl.co/";
 
 const api = axios.create({
   baseURL: baseURL,
